@@ -1,1 +1,1 @@
-https://travis-ci.com/SpencerSheen/TempProj.svg?token=AEB1P11ySExkycvkDtBe&branch=master
+[![Build Status](https://travis-ci.com/SpencerSheen/TempProj.svg?branch=master)](https://travis-ci.com/SpencerSheen/TempProj)
